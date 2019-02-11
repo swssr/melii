@@ -1,0 +1,31 @@
+{
+  "name": "melii",
+  "version": "1.0.0",
+  "description": "meliicebo official website",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "buid": "next build",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swssr/melii.git"
+  },
+  "keywords": [
+    "meliicebo"
+  ],
+  "author": "SWSSR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swssr/melii/issues"
+  },
+  "homepage": "https://github.com/swssr/melii#readme"
+}
